@@ -1,4 +1,5 @@
-
+* v0.3.1
+    * Using kt-paperclip
 * v0.3.0
     * Fog storage support
     * Unlock aspect ratio
